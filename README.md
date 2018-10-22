@@ -1,6 +1,6 @@
 ---
 title: "IntramiRExploreR_Vignettes_ver05"
-author: "Surajit Bhattacharyal and Daniel N. Cox"
+author: "Surajit Bhattacharya and Daniel N. Cox"
 date: "Friday, December 09, 2016"
 output: rmarkdown::html_vignette
 vignette: >
